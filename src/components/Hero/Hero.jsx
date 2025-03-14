@@ -46,10 +46,8 @@ const Hero = () => {
           </ul>
           <Button showArrow={true} />
           <div className={styles.hero_section_comment}>
-            {/* <div className={styles.hero_section_comment_author}></div> */}
             <div className={styles.hero_section_comment_author_info}>
               <div className={styles.hero_section_comment_author_img}></div>
-
               <p className={styles.hero_section_comment_author_info_name}>
                 Amy P.
               </p>
