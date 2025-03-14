@@ -1,0 +1,22 @@
+.btn {
+  width: 356px;
+  height: 56px;
+  padding: 16px 31px 22px;
+  border-radius: 5px;
+  background: #01005b;
+  color: #fff;
+  text-align: center;
+  font-family: "SuisseIntl-Regular", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.54px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.arrow {
+  margin-left: 25px;
+}
